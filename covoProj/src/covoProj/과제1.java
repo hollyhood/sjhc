@@ -10,7 +10,7 @@ public class 과제1 {
 			hap+=i;
 		}
 
-		system.out.printf("1에서 10까지의 합:%d\n",hap);
+		System.out.printf("1에서 10까지의 합:%d\n",hap);
 	}
 
 }
